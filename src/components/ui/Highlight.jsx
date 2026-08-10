@@ -1,5 +1,3 @@
-import react from "react";
-
 const Highlight = ({ icon, subTitle, para }) => {
     return (
         <div className="highlight">
