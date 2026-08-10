@@ -399,6 +399,7 @@ FEATURES
 .skeleton {
   background-color: rgb(227, 227, 227) !important;
   margin-bottom: 8px;
+  max-width: 100%;
 }
 
 .book__title--skeleton {
